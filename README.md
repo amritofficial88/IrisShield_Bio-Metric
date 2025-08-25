@@ -1,4 +1,7 @@
 # IrisShield_Bio-Metric-Recognition Project
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.5%2B-green?logo=opencv)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 This project implements an iris recognition system using Python and OpenCV. It provides functionality to preprocess iris images, extract iris features, compare iris codes, and find the best match in a dataset.
 
@@ -61,8 +64,13 @@ The dataset folder contains images of iris samples used for testing the iris rec
 
 Example: For an individual with ID 007, session 1, and image 3, the filename should be `007_1_3`.
 
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for complete details.
+
 ## Created on Final Year (B.Tech) By:
 - Amritangshu Dey
 - Biprajeet Sen
+
 
 
