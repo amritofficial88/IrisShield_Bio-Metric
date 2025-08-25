@@ -64,11 +64,7 @@ The dataset folder contains images of iris samples used for testing the iris rec
 
 Example: For an individual with ID 007, session 1, and image 3, the filename should be `007_1_3`.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for complete details.
-
-## Created on Final Year (B.Tech) By:
+## Created during Final Year (B.Tech) By:
 - Amritangshu Dey
 - Biprajeet Sen
 
