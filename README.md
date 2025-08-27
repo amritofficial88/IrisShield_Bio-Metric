@@ -18,32 +18,6 @@ Iris recognition stands as a premier biometric authentication method, leveraging
 - **Visualization of Segmentation and Normalization Process Details**: Provides insightful visualizations of the segmentation and normalization processes, aiding in understanding and debugging.
 - **Interactive Selection of Images from a Dataset for Matching**: Facilitates user-friendly interaction for selecting images from the dataset, streamlining the matching process.
 
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/amritofficial88/IrisShield_Bio-Metric-Recognition.git
-
-2. Navigate to the project directory:
-
-   ```python
-   cd IrisShield_Bio-Metric-Recognition
-
-3. Install the required dependencies:
-
-   ```python
-   pip install -r requirements.txt
-
-## Usage
-
-1. Run the Hero.py script to execute the system:
-
-    ```python
-    python Hero.py
-
-2. Follow the on-screen instructions to select an image from the dataset for matching.
-
 ## Dataset
 
 This project utilizes the CASIA-IrisV1 dataset, a widely used dataset for iris recognition research. The CASIA-IrisV1 dataset provides a comprehensive collection of iris images. It consists of 7 iris images of 108 individuals from 2 sessions. 3 images from the 1st session and 4 from the 2nd session.
