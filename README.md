@@ -28,7 +28,7 @@ Iris recognition stands as a premier biometric authentication method, leveraging
 2. Navigate to the project directory:
 
    ```python
-   cd iris-recognition
+   cd IrisShield_Bio-Metric-Recognition
 
 3. Install the required dependencies:
 
@@ -37,10 +37,10 @@ Iris recognition stands as a premier biometric authentication method, leveraging
 
 ## Usage
 
-1. Run the main.py script to execute the iris recognition system:
+1. Run the Hero.py script to execute the system:
 
     ```python
-    python main.py
+    python Hero.py
 
 2. Follow the on-screen instructions to select an image from the dataset for matching.
 
